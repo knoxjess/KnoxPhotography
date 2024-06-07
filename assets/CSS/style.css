@@ -28,7 +28,7 @@ body {
   /* Example CSS to make the favicon adaptable to every device */
   /* You can adjust the size as needed */
   .favicon {
-    width: 100vw; /* 10% of the viewport width */
+    width: 75vw; /* 10% of the viewport width */
     height: auto; /* Maintain aspect ratio */
   }
   /*--------------------------------------------------------------
